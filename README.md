@@ -1,1 +1,1 @@
-#### THE FILE StdDraw.java WAS NOT CREATED BY ME. THAT IS A PRODUCT OF PRINCETON UNIVERSITY AND AVAILABLE FOR DOWNLOAD ONLINE
+##### The file StdDraw.java is an open source project by Princeton University
